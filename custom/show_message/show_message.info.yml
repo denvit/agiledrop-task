@@ -1,0 +1,5 @@
+name: Show message
+type: module
+core: 8.x
+description: It shows a message after node created.
+package: custom
